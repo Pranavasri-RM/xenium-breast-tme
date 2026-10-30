@@ -1,0 +1,10 @@
+# data: too large for GitHub, download separately (see README)
+data/
+*.zarr
+*.h5ad
+*.zip
+ 
+# notebook / python clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

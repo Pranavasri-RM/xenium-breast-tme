@@ -1,0 +1,13 @@
+scanpy==1.11.5
+squidpy==1.8.2
+spatialdata==0.7.3
+spatialdata-plot
+anndata==0.12.19
+scipy==1.14.1
+igraph
+leidenalg
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
