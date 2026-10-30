@@ -29,10 +29,8 @@ These results describe one section from one patient; see [Limitations](#limitati
 
 After quality control, 164,000 cells were grouped into 11 clusters: three tumor groups (ESR1-high, -mid, -low), myoepithelial cells, fibroblasts, endothelial cells, macrophages, T cells, B cells, plasma cells, and one low-quality cluster. My labels agreed with the authors' published labels for 77 to 93% of cells in most cell types.
 
-<p float="left">
-  <img src="figures/tissue_compartments.png" width="49%" />
-  <img src="figures/neighborhood_enrichment.png" width="49%" />
-</p>
+![Tissue compartments](figures/tissue_compartments.png)
+![Neighborhood enrichment](figures/neighborhood_enrichment.png)
 
 ## Data
 
